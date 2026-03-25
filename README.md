@@ -12,9 +12,11 @@ SEO (Search Engine Optimization) and AEO (AI Engine Optimization) toolkit for th
 ├── prompts/
 │   ├── claude-artifact-prompt-en.md      # Claude Project prompt (English site)
 │   └── claude-artifact-prompt-zh-tw.md   # Claude Project prompt (繁體中文站)
-└── handbooks/
-    ├── SEO-AEO-Handbook-EN-20260325.docx       # Full handbook (English)
-    └── SEO-AEO-Handbook-ZH-TW-20260325.docx   # Full handbook (繁體中文)
+├── handbooks/
+│   ├── SEO-AEO-Handbook-EN-20260325.docx       # Full handbook (English)
+│   └── SEO-AEO-Handbook-ZH-TW-20260325.docx   # Full handbook (繁體中文)
+└── docs/
+    └── expected-benefits-for-editors.md  # 預期成效與好處說明
 ```
 
 ---
@@ -115,6 +117,18 @@ The handbooks are comprehensive reference documents for editorial teams. They co
 5. **Pre-Publish Checklist** — Complete checklist covering SEO, AEO, images, internal links, and technical items
 6. **Paywall Content Optimization** — Above-paywall structure, word count guidelines, editor execution flow
 7. **AI-Assisted Writing Quality Guide** (繁體中文版) — Originality requirements, AI draft workflow, E-E-A-T for YMYL-adjacent topics
+
+---
+
+## Expected Benefits
+
+See [`docs/expected-benefits-for-editors.md`](docs/expected-benefits-for-editors.md) for a detailed analysis of expected outcomes, including:
+
+- Search traffic improvement projections (Title Tag optimization alone: 20-50% CTR lift)
+- AI citation rate increases (FAQ +40%, tables +2.5x, schema +44%)
+- Editor time savings (~30-60 min per article)
+- Paywall subscription conversion improvements (35-300%)
+- Measurement framework and timeline
 
 ---
 
